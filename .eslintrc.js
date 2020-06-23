@@ -26,6 +26,16 @@ module.exports = {
     "object-curly-spacing": 0,
     "space-before-function-paren": 0,
     "dot-notation": 0,
+    "no-tabs": 0,
+    "no-trailing-spaces": 0,
+    "comma-spacing": 0,
+    "indent": 0,
+    "quotes": 0,
+    "spaced-comment": 0,
+    "space-infix-ops": 0,
+    "yoda": 0,
+    "lines-between-class-members": 0,
+    "quote-props": 0,
     'no-console': process.env.NODE_ENV === 'production' ? 'error' : 'off',
     'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off'
   }
